@@ -1,0 +1,11 @@
+#parent-div
+{
+    display: flex;
+  
+    justify-content: space-evenly;
+}
+.img
+{
+height: 200px;
+width: 250px;
+}
